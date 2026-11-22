@@ -6,5 +6,5 @@ For this project, the grid will be a randomly generated 4x4 grid with a minimum 
 
 RULES:
 - Words must be >= four letters
-- Letters must neighbour horizontally vertically or diagonally. Your word must be abe to draw a path through the grid to connect letters.
+- Letters must neighbour horizontally vertically or diagonally.
 - Each letter in a position on the grid can only be used once per word.
